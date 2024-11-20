@@ -1,4 +1,4 @@
-# LLMs fir Mining Misconceptions in Mathematics
+# LLMs for Mining Misconceptions in Mathematics
 
 This repository is dedicated to the Kaggle competition Eedi - Mining Misconceptions in Mathematics. 
 
